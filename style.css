@@ -1,22 +1,125 @@
 html,
 body {
   height: 100%;
-  margin: 0;
-  background-color: #171717;
-}
-
-.container {
+  width: 100%;
+  margin: auto;
+  background-color: #151515;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: auto;
-  height: 100%;
-  width: 50%;
 }
 
 .box1 {
-  width: 200px;
-  height: 200px;
-  background-color: #506354;
+  margin: auto;
+  width: 69%;
+  height: 80%;
+  background-color: #171717;
+  border-radius: 10px;
   color: #ede4be;
+  font-family: "Iosevka Nerd Font Mono";
+}
+
+.Buttons {
+  padding-top: 30px;
+  padding-left: 20px;
+  .YTtext {
+    font-size: 15px;
+  }
+  #YT {
+    height: 60px;
+    width: 100px;
+    color: red;
+    font-size: 20px;
+    background-color: #1f1f1f;
+    border-style: none;
+    border-radius: 7px;
+  }
+  #YT:hover {
+    height: 60px;
+    width: 100px;
+    color: red;
+    font-size: 20px;
+    background-color: #222222;
+    border-style: none;
+  }
+  .GHtext {
+    font-size: 15px;
+  }
+  #GH {
+    height: 60px;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    background-color: #1f1f1f;
+    border-style: none;
+    border-radius: 7px;
+  }
+  #GH:hover {
+    height: 60px;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    background-color: #222222;
+    border-style: none;
+  }
+  .TWtext {
+    font-size: 15px;
+  }
+  #TW {
+    height: 60px;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    background-color: #1f1f1f;
+    border-style: none;
+    border-radius: 7px;
+  }
+  #TW:hover {
+    height: 60px;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    background-color: #222222;
+    border-style: none;
+  }
+  .CRtext {
+    font-size: 15px;
+  }
+  #CR {
+    height: 60px;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    background-color: #1f1f1f;
+    border-style: none;
+    border-radius: 7px;
+  }
+  #CR:hover {
+    height: 60px;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    background-color: #222222;
+    border-style: none;
+  }
+  .DVtext {
+    font-size: 15px;
+  }
+  #DV {
+    height: 60px;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    background-color: #1f1f1f;
+    border-style: none;
+    border-radius: 7px;
+  }
+  #DV:hover {
+    height: 60px;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    background-color: #222222;
+    border-style: none;
+  }
 }
