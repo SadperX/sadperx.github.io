@@ -20,11 +20,13 @@ body {
 }
 
 .Buttons {
-  padding-top: 30px;
+  padding-top: 20px;
   padding-left: 20px;
+
   .YTtext {
     font-size: 15px;
   }
+
   #YT {
     height: 60px;
     width: 100px;
@@ -34,6 +36,7 @@ body {
     border-style: none;
     border-radius: 7px;
   }
+
   #YT:hover {
     height: 60px;
     width: 100px;
@@ -42,9 +45,11 @@ body {
     background-color: #222222;
     border-style: none;
   }
+
   .GHtext {
     font-size: 15px;
   }
+
   #GH {
     height: 60px;
     width: 100px;
@@ -54,6 +59,7 @@ body {
     border-style: none;
     border-radius: 7px;
   }
+
   #GH:hover {
     height: 60px;
     width: 100px;
@@ -62,9 +68,11 @@ body {
     background-color: #222222;
     border-style: none;
   }
+
   .TWtext {
     font-size: 15px;
   }
+
   #TW {
     height: 60px;
     width: 100px;
@@ -74,6 +82,7 @@ body {
     border-style: none;
     border-radius: 7px;
   }
+
   #TW:hover {
     height: 60px;
     width: 100px;
@@ -82,9 +91,11 @@ body {
     background-color: #222222;
     border-style: none;
   }
+
   .CRtext {
     font-size: 15px;
   }
+
   #CR {
     height: 60px;
     width: 100px;
@@ -94,6 +105,7 @@ body {
     border-style: none;
     border-radius: 7px;
   }
+
   #CR:hover {
     height: 60px;
     width: 100px;
@@ -102,9 +114,11 @@ body {
     background-color: #222222;
     border-style: none;
   }
+
   .DVtext {
     font-size: 15px;
   }
+
   #DV {
     height: 60px;
     width: 100px;
@@ -114,7 +128,31 @@ body {
     border-style: none;
     border-radius: 7px;
   }
+
   #DV:hover {
+    height: 60px;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    background-color: #222222;
+    border-style: none;
+  }
+
+  .CGtext {
+    font-size: 15px;
+  }
+
+  #CG {
+    height: 60px;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    background-color: #1f1f1f;
+    border-style: none;
+    border-radius: 7px;
+  }
+
+  #CG:hover {
     height: 60px;
     width: 100px;
     color: white;

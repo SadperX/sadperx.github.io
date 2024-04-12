@@ -28,3 +28,9 @@ dv_button.addEventListener("click", function() {
    window.location.href = "https://www.devdocs.io/";
 });
 
+var cg_button = document.getElementById('CG');
+
+cg_button.addEventListener("click", function() {
+   window.location.href = "https://chat.openai.com/";
+});
+
